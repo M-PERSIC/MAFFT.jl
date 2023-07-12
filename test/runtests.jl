@@ -1,6 +1,6 @@
-using MAFFT
+using MUSCLE
 using Test
 
-@testset "MAFFT.jl" begin
+@testset "MUSCLE.jl" begin
     # Write your tests here.
 end
